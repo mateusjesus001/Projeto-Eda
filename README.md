@@ -247,5 +247,3 @@ int[] result = solution.twoSum(nums, target);
 Este projeto é de caráter acadêmico, desenvolvido para fins educacionais na disciplina de Estruturas de Dados.
 
 ---
-
-*README gerado para o projeto **EDA Atividade Unidade 2** — Estruturas de Dados em Java.*
